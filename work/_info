@@ -1,0 +1,423 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/Users/Student/sflahert/compArch/compArchFinalProj
+valu
+Z1 !s100 >Uzl]SKKRZY5RdnSYUdgU1
+Z2 IB`TTa<iSooadVcAChk]a20
+Z3 V_Tnf`2];PQ50`8M_hVBiW0
+Z4 d/Users/Student/sflahert/compArch/compArchFinalProj
+Z5 w1450360025
+Z6 8/Users/Student/sflahert/compArch/compArchFinalProj/alu.v
+Z7 F/Users/Student/sflahert/compArch/compArchFinalProj/alu.v
+L0 1
+Z8 OV;L;10.0d;49
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/alu.v|
+Z10 o-work work -O0
+Z11 !s108 1450360156.292790
+Z12 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/alu.v|
+!s85 0
+!s101 -O0
+valu_control
+Z13 !s100 @FX=aQf1oU67b0lm2@X?f2
+Z14 Ih?YR0Rh3jWGQ7L=fXiPWz3
+Z15 VO@jUmU?36NVK7A3nPT43Q1
+R4
+Z16 w1449990562
+Z17 8/Users/Student/sflahert/compArch/compArchFinalProj/aluCtrl.v
+Z18 F/Users/Student/sflahert/compArch/compArchFinalProj/aluCtrl.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/aluCtrl.v|
+R10
+Z20 !s108 1450360156.602545
+Z21 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/aluCtrl.v|
+!s85 0
+!s101 -O0
+vandGate
+Z22 !s100 KYeP?V<R=Gm061X:`bDZM0
+Z23 IDkKNZTZ8i4?@5>L^K]zgV2
+Z24 VF7i8id]jHzz3RnnOcOWjU2
+R4
+Z25 w1449991114
+Z26 8/Users/Student/sflahert/compArch/compArchFinalProj/andGate.v
+Z27 F/Users/Student/sflahert/compArch/compArchFinalProj/andGate.v
+L0 10
+R8
+r1
+31
+Z28 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/andGate.v|
+R10
+Z29 nand@gate
+Z30 !s108 1450360156.838026
+Z31 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/andGate.v|
+!s85 0
+!s101 -O0
+vcombineSLPC4
+Z32 IfiLO]z17^z`K0ZZ72>=U90
+Z33 V6LleR3M5Z:jh]_FR2NNH>1
+R4
+Z34 w1450349613
+Z35 8/Users/Student/sflahert/compArch/compArchFinalProj/combine_SL_PC_4.v
+Z36 F/Users/Student/sflahert/compArch/compArchFinalProj/combine_SL_PC_4.v
+L0 11
+R8
+r1
+31
+R10
+Z37 ncombine@s@l@p@c4
+Z38 !s100 UVz`li5eKZF9@f1bBbijV0
+Z39 !s108 1450360157.317857
+Z40 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/combine_SL_PC_4.v|
+Z41 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/combine_SL_PC_4.v|
+!s85 0
+!s101 -O0
+vcontrolunit
+Z42 !s100 hE8NF_bT7F7CLD6^3OI>>2
+Z43 IkZOf<A4M8Dc1EkOeGK4IO0
+Z44 VNIh5^MGM2<:3o4CL@m@nQ2
+R4
+R16
+Z45 8/Users/Student/sflahert/compArch/compArchFinalProj/ctrlUnit.v
+Z46 F/Users/Student/sflahert/compArch/compArchFinalProj/ctrlUnit.v
+L0 1
+R8
+r1
+31
+Z47 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/ctrlUnit.v|
+R10
+Z48 !s108 1450360157.772591
+Z49 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/ctrlUnit.v|
+!s85 0
+!s101 -O0
+vcpu_tb
+Z50 !s100 bac`V;^PI1nPTZil_=z3S0
+Z51 I:J6g0z>gLYo7NCNOg1bfN1
+Z52 V0P>[JOo>6KEkgKO=1CbUG0
+R4
+Z53 w1450360143
+Z54 8/Users/Student/sflahert/compArch/compArchFinalProj/cpu_tb.v
+Z55 F/Users/Student/sflahert/compArch/compArchFinalProj/cpu_tb.v
+L0 14
+R8
+r1
+31
+Z56 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/cpu_tb.v|
+R10
+Z57 !s108 1450360157.566835
+Z58 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/cpu_tb.v|
+!s85 0
+!s101 -O0
+vMemory
+Z59 !s100 RLU=jCTCb0iQU>ghh9I`B3
+Z60 II?`EbBXP`>FTe54[44j=^3
+Z61 V8iPiNVA7<liT>K2?[892h2
+R4
+Z62 w1449991653
+Z63 8/Users/Student/sflahert/compArch/compArchFinalProj/memory1.v
+Z64 F/Users/Student/sflahert/compArch/compArchFinalProj/memory1.v
+L0 8
+R8
+r1
+31
+Z65 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/memory1.v|
+R10
+Z66 n@memory
+Z67 !s108 1450360159.034998
+Z68 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/memory1.v|
+!s85 0
+!s101 -O0
+vmux2_1
+Z69 !s100 Fi]5Z[14Z=[g?cMAFZI@91
+Z70 IVf=^Z1m8zgZ3KjQ64@nj^3
+Z71 V1niB`WSNMdi1>P_=<Wcmo2
+R4
+R16
+Z72 8/Users/Student/sflahert/compArch/compArchFinalProj/mux2_1.v
+Z73 F/Users/Student/sflahert/compArch/compArchFinalProj/mux2_1.v
+L0 1
+R8
+r1
+31
+Z74 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/mux2_1.v|
+R10
+Z75 !s108 1450360159.328150
+Z76 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/mux2_1.v|
+!s85 0
+!s101 -O0
+vmux32_2_1
+Z77 !s100 G[KZJ7Hb=NZVUamB?o:S23
+Z78 IU1Qm80D==Do=aAUG_dJTl0
+Z79 VLQ=J:9YigJX3Xb7INeXFP0
+R4
+Z80 w1450352753
+Z81 8/Users/Student/sflahert/compArch/compArchFinalProj/mux32_2_1.v
+Z82 F/Users/Student/sflahert/compArch/compArchFinalProj/mux32_2_1.v
+L0 10
+R8
+r1
+31
+Z83 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/mux32_2_1.v|
+R10
+Z84 !s108 1450360159.988416
+Z85 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/mux32_2_1.v|
+!s85 0
+!s101 -O0
+vmux4_2_1
+Z86 !s100 VD7Xo;Q=3YmCRnAaz]5UN2
+Z87 I^_On7[6]KEgA^;>UFI<810
+Z88 Vl>]G;=hGiITXi=2KH6O;T0
+R4
+Z89 w1450352200
+Z90 8/Users/Student/sflahert/compArch/compArchFinalProj/mux4_2_1.v
+Z91 F/Users/Student/sflahert/compArch/compArchFinalProj/mux4_2_1.v
+L0 10
+R8
+r1
+31
+Z92 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/mux4_2_1.v|
+R10
+Z93 !s108 1450360159.776504
+Z94 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/mux4_2_1.v|
+!s85 0
+!s101 -O0
+vpc_counter
+Z95 !s100 MSCO021FZ=9PhCh1Y>VY;3
+Z96 I>aWjmn_X1X<JQm1hJ5_>D3
+Z97 Vl3Z3K5jWm[_@:VJFd0H1a1
+R4
+Z98 w1450358518
+Z99 8/Users/Student/sflahert/compArch/compArchFinalProj/pcCounter.v
+Z100 F/Users/Student/sflahert/compArch/compArchFinalProj/pcCounter.v
+L0 10
+R8
+r1
+31
+Z101 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/pcCounter.v|
+R10
+Z102 !s108 1450360160.167995
+Z103 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/pcCounter.v|
+!s85 0
+!s101 -O0
+vproblem4tb
+Z104 !s100 7J=O1J?aj;b7^40I3WKaa2
+Z105 IRY=WIg9U>ckCJ8Z`<o3B[0
+Z106 V7Y>H6iABnC?Hk^OBBgXLR2
+R4
+R16
+Z107 8/Users/Student/sflahert/compArch/compArchFinalProj/tb_ctrlUnit.v
+Z108 F/Users/Student/sflahert/compArch/compArchFinalProj/tb_ctrlUnit.v
+L0 8
+R8
+r1
+31
+Z109 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/tb_ctrlUnit.v|
+R10
+Z110 !s108 1450360162.577022
+Z111 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/tb_ctrlUnit.v|
+!s85 0
+!s101 -O0
+vproblem5tb
+Z112 !s100 KYRK?CQT?5I332RQo@HzF0
+Z113 IN`WjWN0W3H:8?XQbII1g31
+Z114 V;ezKIgAFXkVUzVY_e54aG2
+R4
+R16
+Z115 8/Users/Student/sflahert/compArch/compArchFinalProj/tb_aluCtrl.v
+Z116 F/Users/Student/sflahert/compArch/compArchFinalProj/tb_aluCtrl.v
+L0 10
+R8
+r1
+31
+Z117 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/tb_aluCtrl.v|
+R10
+Z118 !s108 1450360162.338861
+Z119 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/tb_aluCtrl.v|
+!s85 0
+!s101 -O0
+vproblem6tb
+Z120 !s100 XhDB?ZS7TKjVPL5]^=IEh1
+Z121 IdajBAOli6Zj@8<f9I>nh01
+Z122 V7nA7O5;?cf62Yd>BzLd0P2
+R4
+R16
+Z123 8/Users/Student/sflahert/compArch/compArchFinalProj/tb_alu.v
+Z124 F/Users/Student/sflahert/compArch/compArchFinalProj/tb_alu.v
+L0 8
+R8
+r1
+31
+Z125 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/tb_alu.v|
+R10
+Z126 !s108 1450360162.110097
+Z127 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/tb_alu.v|
+!s85 0
+!s101 -O0
+vprocessor
+Z128 !s100 hYJ0SX>5J3QTXh];3IY;61
+Z129 Id=9=UMVVnYGOXd7XAze222
+Z130 V_dVNMG8=m2cP_9=UlXd4c1
+R4
+Z131 w1450348172
+Z132 8/Users/Student/sflahert/compArch/compArchFinalProj/processor.v
+Z133 F/Users/Student/sflahert/compArch/compArchFinalProj/processor.v
+L0 12
+R8
+r1
+31
+Z134 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/processor.v|
+R10
+Z135 !s108 1450348226.300316
+Z136 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/processor.v|
+!s85 0
+!s101 -O0
+vProcessor
+Z137 !s100 4G@BH5SoFIU[bg?ndz5GG0
+Z138 IJ`1z81iLQ<@T8Y<m6;fFT0
+Z139 V`4WfVLmYl]AbB9f0RL22;1
+R4
+Z140 w1450358090
+R132
+R133
+L0 12
+R8
+r1
+31
+R134
+R10
+Z141 n@processor
+Z142 !s108 1450360160.378101
+R136
+!s85 0
+!s101 -O0
+vreg_32
+Z143 !s100 EPG:SC2XUh?H6U]`IA:Z12
+Z144 IoDT`PSPGSbNRE?;i4LL202
+Z145 VHGaC>eD7HFWEZnZSK7kAP1
+R4
+R16
+Z146 8/Users/Student/sflahert/compArch/compArchFinalProj/reg_32.v
+Z147 F/Users/Student/sflahert/compArch/compArchFinalProj/reg_32.v
+L0 1
+R8
+r1
+31
+Z148 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/reg_32.v|
+R10
+!s85 0
+Z149 !s108 1450360162.874572
+Z150 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/reg_32.v|
+!s101 -O0
+vreg_32_tb
+Z151 !s100 j@d1G=3A0N?9nfnONAE@02
+Z152 Id70kBJ=SMMME7L8h]P?Se0
+Z153 VzKj:H470k?DcWZ3KdFnRM2
+R4
+R16
+Z154 8/Users/Student/sflahert/compArch/compArchFinalProj/reg_32_tb.v
+Z155 F/Users/Student/sflahert/compArch/compArchFinalProj/reg_32_tb.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1450360163.161221
+!s107 /Users/Student/sflahert/compArch/compArchFinalProj/reg_32_tb.v|
+Z156 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/reg_32_tb.v|
+!s101 -O0
+R10
+vreg_file
+Z157 !s100 08;eN_7W6YGk6kU;Uo5[h1
+Z158 I`n0R66JG>o9oodlJXB<<=3
+Z159 VG=hD10o:O<9=7BG9LzOdm0
+R4
+Z160 w1450357726
+Z161 8/Users/Student/sflahert/compArch/compArchFinalProj/reg_file.v
+Z162 F/Users/Student/sflahert/compArch/compArchFinalProj/reg_file.v
+L0 1
+R8
+r1
+31
+Z163 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/reg_file.v|
+R10
+Z164 !s108 1450360160.618701
+Z165 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/reg_file.v|
+!s85 0
+!s101 -O0
+vshiftleft2
+Z166 !s100 g8Q`7N8^AjF7C_9^HX38C1
+Z167 I>ho;jKz9K5COO[Ci7FSYg0
+Z168 V6=A^7ZNi8HFcco:n60]Eb3
+R4
+Z169 w1450001328
+Z170 8/Users/Student/sflahert/compArch/compArchFinalProj/shiftleft2.v
+Z171 F/Users/Student/sflahert/compArch/compArchFinalProj/shiftleft2.v
+L0 10
+R8
+r1
+31
+Z172 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/shiftleft2.v|
+R10
+Z173 !s108 1450360161.088552
+Z174 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/shiftleft2.v|
+!s85 0
+!s101 -O0
+vsign_extend
+Z175 !s100 9dJ5gFo`FT9TZ6^4G_G:X3
+Z176 IPg=9ON19>?66Zjk;7m2aY2
+Z177 Vi00TOTfV=gTCH;6GXdee`3
+R4
+Z178 w1450347901
+Z179 8/Users/Student/sflahert/compArch/compArchFinalProj/sign_extend.v
+Z180 F/Users/Student/sflahert/compArch/compArchFinalProj/sign_extend.v
+L0 10
+R8
+r1
+31
+Z181 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/sign_extend.v|
+R10
+Z182 !s108 1450360161.388230
+Z183 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/sign_extend.v|
+!s85 0
+!s101 -O0
+vtest_mux2_1
+Z184 !s100 ZaKl=Vj<zAcl1ComX;CY^0
+Z185 I>WU=`mQ>V@nWz]MkCBJcX1
+Z186 VDHaF_JjcnO5[^`XBNoU9P1
+R4
+R16
+Z187 8/Users/Student/sflahert/compArch/compArchFinalProj/mux2_1_tb.v
+Z188 F/Users/Student/sflahert/compArch/compArchFinalProj/mux2_1_tb.v
+L0 3
+R8
+r1
+31
+Z189 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/mux2_1_tb.v|
+R10
+Z190 !s108 1450360159.560299
+Z191 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/mux2_1_tb.v|
+!s85 0
+!s101 -O0
+vtest_reg_file
+Z192 !s100 0CD23?SGPmaZZf^m6b?523
+Z193 IiTlb=[_VhZ_oMkK24mRf01
+Z194 VRXPa:n0eim@ZP6`@T4K:<2
+R4
+R16
+Z195 8/Users/Student/sflahert/compArch/compArchFinalProj/reg_file_tb.v
+Z196 F/Users/Student/sflahert/compArch/compArchFinalProj/reg_file_tb.v
+L0 3
+R8
+r1
+31
+Z197 !s90 -reportprogress|300|-work|work|/Users/Student/sflahert/compArch/compArchFinalProj/reg_file_tb.v|
+R10
+Z198 !s108 1450360160.840994
+Z199 !s107 /Users/Student/sflahert/compArch/compArchFinalProj/reg_file_tb.v|
+!s85 0
+!s101 -O0
